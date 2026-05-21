@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: 3DTutes
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Welcome to 3D Tutes.
