@@ -1,7 +1,7 @@
 ---
-title: 2 - Creating a new Unreal Engine Project
+title: 2 - Creating a new Project
 ---
-
+For full comprehensive instructions please see [here.](https://dev.epicgames.com/documentation/unreal-engine/create-your-first-project-in-unreal-engine?lang=en-US)
 
 After installing and opening Unreal Engine, you are brought to the Unreal Project Browser Window.
 

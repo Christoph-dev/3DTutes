@@ -1,7 +1,8 @@
 {
 	"nodes":[
-		{"id":"aedd68286e66533b","type":"file","file":"YES26/Tasks/Installing Unreal Engine.md","x":-439,"y":-283,"width":639,"height":1643},
-		{"id":"d5b017cb5c8bdbd9","x":240,"y":-283,"width":520,"height":1343,"type":"file","file":"YES26/Tasks/Creating a new Unreal Engine Project.md"}
+		{"id":"a33a74fae78777f9","x":-680,"y":-280,"width":660,"height":1260,"type":"file","file":"content/UnrealEngine/Basics/1 - Installing Unreal Engine.md"},
+		{"id":"6ec06c7380b80c25","x":68,"y":-248,"width":533,"height":1196,"type":"file","file":"content/UnrealEngine/Basics/2 - Creating a new Project.md"},
+		{"id":"90e230f7b47c89ef","x":640,"y":-248,"width":700,"height":1196,"type":"file","file":"content/UnrealEngine/Basics/3 - Project Setup.md"}
 	],
 	"edges":[]
 }

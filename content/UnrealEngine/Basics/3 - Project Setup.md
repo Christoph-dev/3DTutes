@@ -1,5 +1,5 @@
 ---
-title: 3 - Recommended Project Setup
+title: 3 - Project Setup
 ---
 
 Once you are in a new project, I recommend these next steps:
@@ -19,8 +19,7 @@ Content/
 ```
 
 2. **New Map**
-Open the Maps Folder, right click and create a new level. Call it what you want.
-
+Open the Maps Folder, right click and create a new level. Call it what you want, you should prefix it with Map_.
 ![[MapA.png]]
 
 3. **New Classes**
@@ -44,13 +43,13 @@ Create a new folder in the Core Folder called Player
 Content/
 └── GameName/
     ├── Core/
-	     ├── ***Player***/
+	     ├── Player/
 ```
 
 Then inside the Player folder, create two new Blueprint Classes.
 - Player Controller
 - Character
-- 
+
 ![[PlayerCharacterController.png]]
 
 Call them what you want, but Blueprints should have **BP_** prefix.
