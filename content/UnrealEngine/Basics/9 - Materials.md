@@ -1,7 +1,7 @@
 ---
 title: 9 - Materials
 ---
-qq## Flat Material
+## Flat Material
 *A Flat material just has colour, roughness and specular input.*
 
 1. Go to your \Art\ folder, right click and create a Material called M_FlatGreen  
@@ -21,13 +21,14 @@ a. Drag the material onto the mesh.
 b. Or set the material in the details panel of the mesh.
 
 ## Textured Material
-*This material has texture file inputs. We'll be making a brick Material*
+*This material has texture file inputs. We'll be making a brick Material*  
+*You can download the resource pack [here](/UnrealEngine/assets/Resources.zip)*
 
 1. Go to your \Art\ folder and create a Material called M_Brick.  
 ![[Materials3.png]]
 
-2. Double click on the material.
-3. Open up the content drawer and find your textures. Drag them all in
+1. Double click on the material.
+2. Open up the content drawer and find your textures. Drag them all in
 	- *I have _D, _N, _H, _R texture files.*
 	- D = Diffuse (base colour)
 	- N = Normal
@@ -35,9 +36,9 @@ b. Or set the material in the details panel of the mesh.
 	- R = Roughness  
 ![[Materials4.png]]
 
-4. Align and plug materials as per screenshot below:  
+1. Align and plug materials as per screenshot below:  
 ![[Materials5.png]]
 *BumpOffset is its own node for a simple height map use. You can search for it and add it.*
 
-5. Change preview object to Cube to see a realistic preview of the brick texture.  
+1. Change preview object to Cube to see a realistic preview of the brick texture.  
 ![[Matrerials6.png]]

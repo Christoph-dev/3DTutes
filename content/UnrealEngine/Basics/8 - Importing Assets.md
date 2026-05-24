@@ -1,8 +1,8 @@
 ---
 title: 8 - Importing Assets
 ---
-*For this demonstration I'll be using a set of basic primitive models and simple textures.*
-
+*For this demonstration I'll be using a set of basic primitive models and simple textures.*  
+*You can download the resource pack [here](/UnrealEngine/assets/Resources.zip)*
 ## Models
 
 1. In the content drawer, go to \Art\ and create a new folder called **Basics**  
