@@ -4,7 +4,7 @@ title: 4 - Navmesh
 Navmeshes are used by AI Controllers to know what terrain is walkable, and also used to find shortest paths.
 
 1. Add a navmesh bounds volume to your level:  
-![[AI20.png]]
+![[AI_36.png]]
 
 2. Scale the volume to encompass the area you want yor AI to patrol in.
 3. Press 'P' to preview the navmesh.

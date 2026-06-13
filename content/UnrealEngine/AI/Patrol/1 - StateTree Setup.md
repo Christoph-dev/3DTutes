@@ -15,22 +15,21 @@ In this lesson we're going to use the Dinosaur from the Character Animation for 
 
 4. Right click in our Dino folder and add a Blueprint Class
 5. Find AI Controller  
-![[AI1.png]]
-
+![[public/UnrealEngine/assets/AI_1.png]]  
  6. Create it and call it "BP_DinoAIC"
 
 ### Setting up the AI Assets
  1. Open the BP_DinoAIC
  2. Add a StateTreeAI Component  
-![[AI2.png]]
+![[public/UnrealEngine/assets/AI_3.png]]
 
  3. In the details of the StateTreeAI Component, select ST_Dino
-![[AI3.png]]
+![[public/UnrealEngine/assets/AI_5.png]]
 
 4. Now open up the State Tree ST_Dino
 5. Set AI Controller Class to BP_DinoAIC
 6. Set Context Actor Class to BP_Dino  
-![[AI5.png]]
+![[public/UnrealEngine/assets/AI_7.png]]
 
 
 ### Assigning AI to our Character
@@ -39,7 +38,7 @@ In this lesson we're going to use the Dinosaur from the Character Animation for 
 3. In the details search for PAWN
 	- Set Auto Possess AI = Placed in World or Spawned
 	- Set AI Controler Class = BP_DinoAIC  
-![[AI4.png]]
+![[public/UnrealEngine/assets/AI_9.png]]
 
 4. Compile and Save.
 
