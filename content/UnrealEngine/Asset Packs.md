@@ -21,4 +21,4 @@ For Educational Purposes Only. All packs have Non-Commercial Licenses.
 | Rocks                                         | [Rocks](/UnrealEngine/assets/Rocks.zip)                            |
 | Palm Tree                                     | [Palm Tree](/UnrealEngine/assets/PalmTree.zip)                     |
 | Resource Pickups                              | [SM_Resource_Pickups](/UnrealEngine/assets/SM_ResourcePickups.fbx) |
-|                                               |                                                                    |
+| Dino Attack Animation                         | [Dino Attack](/UnrealEngine/assets/Anim_Dino_Attack.fbx)           |

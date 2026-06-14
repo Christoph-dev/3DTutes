@@ -51,7 +51,7 @@ This tutorial builds on from Patrol AND Character Actions, which you should comp
 - Go to Class Settings
 - Add the Hittable Interface to Implemented Interfaces
 - Build the logic below:  
-![[Pasted image 20260613231821.png|509]]  
+![[AI_OW.png|509]]  
 *This is just for testing, we'll make it better in the next section*
 
 ### 4 - Attack helpers
