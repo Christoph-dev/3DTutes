@@ -22,3 +22,6 @@ For Educational Purposes Only. All packs have Non-Commercial Licenses.
 | Palm Tree                                     | [Palm Tree](/UnrealEngine/assets/PalmTree.zip)                     |
 | Resource Pickups                              | [SM_Resource_Pickups](/UnrealEngine/assets/SM_ResourcePickups.fbx) |
 | Dino Attack Animation                         | [Dino Attack](/UnrealEngine/assets/Anim_Dino_Attack.fbx)           |
+| Robot                                         | [Robot](/UnrealEngine/assets/SK_Player2.fbx)                       |
+| Revolver                                      | [Revolver](/UnrealEngine/assets/SM_Revolver.fbx)                   |
+|                                               |                                                                    |
