@@ -1,6 +1,7 @@
 ---
 title: 1 - Balloons
 ---
+![[Pasted image 20260627175558.png|313]]
 #### BP_Balloon Setup
 - In your `\Core` folder, create an Actor blueprint called `BP_Balloon`
 - Add a `Sphere` Component, size it close to a balloon.
